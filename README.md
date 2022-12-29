@@ -12,7 +12,8 @@ EFI for my Personal PC with a Pentium Gold G5400
 - HDD:      WDC 512GB SATA
 
 **_Version installed_**:
-* Big Sur
+* Big Sur: [v2.0](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/Monterey)
+* Monterey:[v2.0](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/Monterey)
 
 _Installation:_ 
 1.  Assign letter the EFI partition 
