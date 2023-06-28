@@ -1,5 +1,5 @@
 # PentiumG5400-Opencore-Hackintosh
-EFI for my Personal PC with a Pentium Gold G5400
+EFI for my PC with a Pentium Gold G5400
 
 **_Spec:_**
 - CPU:      Intel(R) Pentium(R) Gold G5400 CPU
