@@ -17,7 +17,7 @@
 * Monterey:[v2.0](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/Monterey)
 
 **_Note:_**
-* Please remap your USB [here](https://github.com/USBToolBox/tool)
+* Please remap your USB using the guide [here](https://github.com/USBToolBox/tool)
 * Remember to add your SMBIOS to the config.plist
 
 **_Tool used:_**
