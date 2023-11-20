@@ -26,7 +26,7 @@
 * [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/)
 * [Explorer++](https://explorerplusplus.com/download)
 
-_Installation:_ 
+**_Installation:_**
 1.  Assign letter the EFI partition 
 * Open Minitool Partition Wizard on the installer USB
 * Find FAT32 partition (~100MB) on your USB drive
