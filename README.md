@@ -1,5 +1,5 @@
 # PentiumG5400-Opencore-Hackintosh
-EFI for my PC with a Pentium Gold G5400
+## EFI for my PC with a Pentium Gold G5400
 
 **_Spec:_**
 - CPU:      Intel(R) Pentium(R) Gold G5400 CPU
@@ -13,7 +13,18 @@ EFI for my PC with a Pentium Gold G5400
 
 **_Version installed_**:
 * Big Sur: [v2.0](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/Monterey)
+* Big Sur: [v3.0 preview](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/BigSurPreview)
 * Monterey:[v2.0](https://github.com/j0hnVu/PentiumG5400-Opencore-Hackintosh/releases/tag/Monterey)
+
+**_Note:_**
+* Please remap your USB [here](https://github.com/USBToolBox/tool)
+* Remember to add your SMBIOS to the config.plist
+
+**_Tool used:_**
+* [Propertree](https://github.com/corpnewt/ProperTree)
+* [genSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/)
+* [Explorer++](https://explorerplusplus.com/download)
 
 _Installation:_ 
 1.  Assign letter the EFI partition 
@@ -40,5 +51,5 @@ or
 **If you have any question, feel free to contact me:**
 
 - Email:    hoanganh170788@gmail.com
-- Discord:  serenity#5693
+- Discord:  serenityowo
 - Reddit:   zoolsUwU
