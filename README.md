@@ -41,13 +41,6 @@
 5.  Erase the drive or partition you wish to install Mac OS on
 6.  Install MAC OS
 
-_Adding Opencore boot option(Thanks to @big-stiff):_
-- If your BIOS supports adding new boot entry, you can set with the path below
-> EFI/Boot/BOOTx64.efi *(Currently using)*
-or
-> EFI/OC/Opencore.efi
-- If your BIOS doesnt, you can easily add by using BOOTICE ( Windows required )
-
 **If you have any question, feel free to contact me:**
 
 - Email:    hoanganh170788@gmail.com
